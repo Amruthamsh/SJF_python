@@ -1,7 +1,7 @@
 # SJF_python
 Python implementation of preemptive and non-preemptive Shortest Job First scheduling 
 
-# Output Results
+## Output Results
 
 Non Preemptive - SJF
 ![image](https://github.com/Amruthamsh/SJF_python/assets/32568328/7522e227-979d-43d1-a3ce-78c319bfabf8)
